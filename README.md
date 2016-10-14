@@ -1,0 +1,2 @@
+# gstPluginWrap
+GStreamer plugin wrapper
