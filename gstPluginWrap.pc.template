@@ -1,0 +1,6 @@
+Name: gstPluginWrap
+Description: GStreamer plugin wrapper
+Requires: gstreamer-0.10
+Version: $VERSION
+Libs:
+Cflags: -I$INSTALL_PATH
